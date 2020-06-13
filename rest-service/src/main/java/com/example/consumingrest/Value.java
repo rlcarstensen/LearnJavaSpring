@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.consumingrest;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
